@@ -1,0 +1,19 @@
+`
+Dear Dr. \${1:rDVM},
+
+I saw '\${2:Patient Name}' -- a \${3:Signalment} with a history of diabetes and vision loss.
+
+On exam today I noted absent menaces but intact PLRs OU. Both eyes have symmetrical findings - namely mature cataracts but no signs of active uveitis. I spoke to the owner about cataract surgery (provided the diabetes is controlled) and that the next steps would be to move forward with an ERG & Ultrasound. Hopefully they will schedule and we can go forward with cataract removal.
+
+Our plan is \${6:to start topical NSAIDs} and we will wait to hear from them to schedule further diagnostics.
+
+Thanks again for sharing this case with me, please don't hesitate to contact me if you have any questions or concerns!
+
+Best wishes,
+Thomas Chen DVM, MS, DACVO
+P: (510) 623-0444, E:chen@animaleyecare.com
+
+-----------------------------------------------------------------
+
+Please see below for instructions sent home with the owner:
+`

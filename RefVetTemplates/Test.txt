@@ -1,0 +1,6 @@
+`
+// Name:  John
+// Description: \${2:Script Description}
+// Author: \${3:John Lindquist}
+// Twitter: \${4:@johnlindquist}
+`

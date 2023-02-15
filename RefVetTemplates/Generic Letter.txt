@@ -1,0 +1,19 @@
+`
+Dear Dr. \${1:rDVM},
+
+I saw '\${2:Patient Name}' -- a \${3:Signalment} with a history of \${4:whatever}.
+
+On exam today I noted \${5|intact menaces and PLRs OU,absent menaces and PLRs OU|}. \${6|The right eye was WNL.,The left eye was WNL.|} \${7}
+
+Our plan is \$8. We would like to see \$2 back in approximately \$9.
+
+Thanks again for sharing this case with me, please don't hesitate to contact me if you have any questions or concerns!
+
+Best wishes,
+Thomas Chen DVM, MS, DACVO
+P: (510) 623-0444, E:chen@animaleyecare.com
+
+-----------------------------------------------------------------
+
+Please see below for instructions sent home with the owner:
+`

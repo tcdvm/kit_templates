@@ -1,0 +1,18 @@
+`
+Dear Dr. \${1},
+
+I saw '\${2}' -- a \${3} with a history of suspect cataracts and vision loss \${4}.
+
+On exam today I noted absent menaces but intact PLRs OU. Both eyes have symmetrical findings - namely mature cataracts but no signs of active uveitis. I spoke to the owner about cataract surgery and that the next steps would be to move forward with an ERG & Ultrasound. They will discuss it at home with their family and if interested will schedule diagnostics and we can move forward with cataract removal if the results are acceptable.
+
+Our plan is \$6 and we will wait to hear from them to schedule further diagnostics.
+
+Thanks again for sharing this case with me, please don't hesitate to contact me if you have any questions or concerns!
+
+Best wishes,
+Thomas Chen DVM, MS, DACVO
+P: (510) 623-0444, E:chen@animaleyecare.com
+-----------------------------------------------------------------
+
+Please see below for instructions sent home with the owner:
+`
