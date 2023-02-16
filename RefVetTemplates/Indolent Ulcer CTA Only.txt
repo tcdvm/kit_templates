@@ -1,0 +1,20 @@
+`
+Dear Dr. \${1:rDVM},
+
+I saw '\${2:Patient Name}' -- a \${3:Signalment} with a history of nonhealing corneal ulcer \${4|OS,OD|} for \${5:Time Frame} duration.
+
+On exam today I noted intact menaces and PLRs OU. The \${6|right,left|} eye is clear except for normal aging changes. The \${7|right,left|} eye has a superficial corneal ulcer with nonadherent epithelial margins which stain was noted to extend under. The remainder of the exam was within normal limits.
+
+I discussed with the owner about doing a CTA (50% healing rate) or diamond burr debridement (80% healing rate). They elected for the former which we did with topical anesthetic. I enlarged the original ulcer by approximately \${8:Percent Debrided}%. We recommended to the owner that $2 continue to wear a cone at all time. If the ulcer does NOT heal, then our plan is to follow up with the diamond burr.
+
+We will continue with topical antibiotics and oral pain medications and would like to see \${2:Patient name} back in approximately 2-3 weeks for recheck of the corneal ulcer.
+
+Thanks again for sharing this case with me, please don't hesitate to contact me if you have any questions or concerns!
+
+Best wishes,
+Thomas Chen DVM, MS, DACVO
+P: (510) 623-0444, E:chen@animaleyecare.com
+-----------------------------------------------------------------
+
+Please see below for instructions sent home with the owner:
+`
