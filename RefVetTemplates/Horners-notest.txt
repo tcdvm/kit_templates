@@ -1,0 +1,20 @@
+`
+Dear Dr. \${1:rDVM},
+
+I saw '\${2:Patient Name}' -- a \${3:Signalment} with a history of miotic pupil \${4|OS,OD|} for \${5:Time Frame} duration.
+
+On exam today I noted intact menaces and PLRs OU. The \${6|right,left|} eye is within normal limits. The \${7|right,left|} eye was noted to have a miotic pupil, enophthalmia with elevation of the third eyelid, and some ptosis as well. I checked for uveitis and ulceration and found no signs of either. The remainder of the exam was within normal limits.
+
+Given the clinical signs, I suspect that \${2:Patient name} has Horner's syndrome and discussed the disease with the owner. Since the condition is relatively acute, we did not phenylephrine test as it takes a little bit of time to get the delayed hypersensitivity reaction to confirm post-ganglionic Horner's. We discussed diagnostic testing including chest radiographs but the owner elected to monitor for now.
+
+Our plan is to monitor at home with the hopes that the signs will gradually improve over the next 3-6 months. We do not need to see \${2:Patient name} back unless clinical signs persist or worsen.
+
+Thanks again for sharing this case with me, please don't hesitate to contact me if you have any questions or concerns!
+
+Best wishes,
+Thomas Chen DVM, MS, DACVO
+P: (510) 623-0444, E:chen@animaleyecare.com
+-----------------------------------------------------------------
+
+Please see below for instructions sent home with the owner:
+`
