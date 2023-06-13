@@ -1,0 +1,19 @@
+`
+Dear Dr. \${1:rDVM},
+
+I saw '\${2:Patient Name}' -- a \${3:Signalment} with a history of \${4|cherry eye OD,cherry eye OS, cherry eye OU|} of \${5|duration|} duration.
+
+On exam today I noted intact menaces and PLRs OU. \${6|The right eye was WNL.,The left eye was WNL.|} \${7}. I confirmed the presence of the cherry eye (with minimal to no signs of active keratitis associated with it) and discussed surgical correction and associated risks (namely recurrencely) and risks if left untreated. The owner will decide whether or not to move forward. 
+
+Our plan is to maybe do artificial tears or NPD if the owner think it's helping and we will wait to hear from them in the future.
+
+Thanks again for sharing this case with me, please don't hesitate to contact me if you have any questions or concerns!
+
+Best wishes,
+Thomas Chen DVM, MS, DACVO
+P: (510) 623-0444, E:chen@animaleyecare.com
+
+-----------------------------------------------------------------
+
+Please see below for instructions sent home with the owner:
+`
