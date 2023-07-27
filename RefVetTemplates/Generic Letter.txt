@@ -3,7 +3,7 @@ Dear Dr. \${1:rDVM},
 
 I saw '\${2:Patient Name}' -- a \${3:Signalment} with a history of \${4:whatever}.
 
-On exam today I noted \${5|intact menace OD absent OS,intact menace OS absent OD,intact menaces and PLRs OU,absent menaces and PLRs OU|}. \${6|The right eye was WNL.,The left eye was WNL.|} \${7}
+On exam today I noted \${5|intact menaces and PLRs OU,intact menace OD absent OS,intact menace OS absent OD,absent menaces and PLRs OU|}. \${6|The right eye was WNL.,The left eye was WNL.|} \${7}
 
 Our plan is \$8. We would like to see \$2 back in approximately \$9.
 
